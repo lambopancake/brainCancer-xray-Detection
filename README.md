@@ -6,6 +6,6 @@ The accuracy based on the test_dataset is 92%. On train_dataset is 96% accuracy.
 
 The output will look like this:
 
-![Untitled](Brain%20Cancer%20Xray%20Detection%20c07599e8834f421d9229d9419d30478a/Untitled.png)
+![ImageOutput](Readme%20Images/ImageOutput.png)
 
 ![Untitled](Brain%20Cancer%20Xray%20Detection%20c07599e8834f421d9229d9419d30478a/Untitled%201.png)
